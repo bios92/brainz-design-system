@@ -1,0 +1,2 @@
+import{A as t}from"./index.801e6adb.js";import"./index.15b5d770.js";import"./iframe.3d880bc8.js";import"./index.b770ac78.js";import"./jsx-runtime.d77fda0e.js";const p={title:"Data display/Avatar",component:t,argTypes:{src:{control:{type:"text"}}},args:{src:"https://github.com/bios92.png",alt:"Filipe"}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.331a71af.js.map

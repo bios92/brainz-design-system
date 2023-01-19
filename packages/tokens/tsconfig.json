@@ -1,0 +1,6 @@
+{
+  "extends": "@brainz-ui/ts-config/base.json",
+  "include": [
+    "src"
+  ],
+}
